@@ -24,7 +24,7 @@ It can be used in the training of GSL production models.
 
 After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condensed data set obtained is as follows:
 
-It can be used for the diffusion model training of pose2video in sign language. (Based on ControlNet)
+It can be used for the diffusion model training of pose2video in sign language. (Based on [ControlNet](https://github.com/lllyasviel/ControlNet/blob/main/docs/train.md))
 
 ## How2Sign for Vid2Vid
 
@@ -32,7 +32,7 @@ After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condens
 
 - https://aistudio.baidu.com/datasetdetail/220064
 
-It can be used for the diffusion model training of pose2video in sign language. (Based on ControlNet)
+It can be used for the diffusion model training of pose2video in sign language. (Based on [Vid2Vid](https://github.com/NVIDIA/vid2vid))
 
 ## Tool for Data
 
