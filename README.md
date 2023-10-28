@@ -9,7 +9,7 @@ After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condens
 
 - https://drive.google.com/file/d/1fGSrRAxhik2hTr9m4yut_IgsVuKvlsVe/view?usp=sharing
 
-It can be used in the training of ASL production models.
+It can be used in the training of ASL production models. Because I later processed more data, it was 4 times the size in the paper.
 
 ## Phoenix-14T for GSLP
 
