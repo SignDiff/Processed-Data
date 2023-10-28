@@ -30,6 +30,8 @@ It can be used for the diffusion model training of pose2video in sign language. 
 
 After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condensed data set obtained is as follows:
 
+- https://aistudio.baidu.com/datasetdetail/220064
+
 It can be used for the diffusion model training of pose2video in sign language. (Based on ControlNet)
 
 ## Tool for Data
