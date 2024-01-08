@@ -41,3 +41,7 @@ It can be used for the diffusion model training of pose2video in sign language. 
 Our pre-processing tools: the data cleansing tool and the three-step 2Dto3D tool.
 
 Stay tuned. The data above should be sufficient for the time being.
+
+## Related Work
+
+[https://github.com/BenSaunders27/ProgressiveTransformersSLP](https://github.com/BenSaunders27/ProgressiveTransformersSLP)
