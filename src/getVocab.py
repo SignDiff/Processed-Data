@@ -1,7 +1,7 @@
 import re
 import os
 
-# Read file contents
+# Read file contents, such as train.text
 with open('all.text', 'r') as f:
     content = f.read()
 
@@ -29,3 +29,13 @@ if new_words:
 if not os.path.exists('existing_words.txt'):
     with open('existing_words.txt', 'w') as f:
         f.write('\n'.join(existing_words))
+
+'''
+The new word file is what we need, and the presence file is used to prevent duplicate judgment conditions. 
+When you have run the above code, manually add four lines to the new word file:
+
+<unk>
+<pad>
+<s>
+</s>
+'''
