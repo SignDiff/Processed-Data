@@ -3,6 +3,8 @@
 This repository stores the preprocessed data for paper: 
 <br>[SignDiff: Learning Diffusion Models for American Sign Language Production](https://arxiv.org/abs/2308.16082)
 
+**Note:** The job hasn't been accepted yet. I'm too busy to submit it at the moment. Maybe it will be accepted at some conference in the fall and that might be a good time to open up the code.
+
 ## How2Sign for ASLP
 
 After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condensed data set obtained is as follows:
