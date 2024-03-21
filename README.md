@@ -3,7 +3,7 @@
 This repository stores the preprocessed data for paper: 
 <br>[SignDiff: Learning Diffusion Models for American Sign Language Production](https://arxiv.org/abs/2308.16082)
 
-**Note:** This work has not been accepted yet, and I am currently very busy and do not have time to submit my paper at a recent academic conference. Perhaps it could be a good time to open up code when it is accepted at a conference in the fall.
+**Note:** This work has not been accepted yet, and I am currently very busy and do not have time to submit my paper at a recent academic conference. Perhaps it could be a good time to open up code when paper is accepted at a conference in the fall.
 
 ## How2Sign for ASLP
 
