@@ -44,6 +44,26 @@ Our pre-processing tools: the data cleansing tool and the three-step 2Dto3D tool
 
 Stay tuned. The data above should be sufficient for the time being.
 
+```
+@misc{fang2024signllm,
+      title={SignLLM: Sign Languages Production Large Language Models}, 
+      author={Sen Fang and Lei Wang and Ce Zheng and Yapeng Tian and Chen Chen},
+      year={2024},
+      eprint={2405.10718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@misc{fang2023signdiff,
+      title={SignDiff: Learning Diffusion Models for American Sign Language Production}, 
+      author={Sen Fang and Chunyu Sui and Xuedong Zhang and Yapeng Tian},
+      year={2023},
+      eprint={2308.16082},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 ## Related Work
 
 - https://github.com/BenSaunders27/ProgressiveTransformersSLP
