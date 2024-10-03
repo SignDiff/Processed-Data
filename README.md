@@ -67,3 +67,4 @@ Stay tuned. The data above should be sufficient for the time being.
 ## Related Work
 
 - https://github.com/BenSaunders27/ProgressiveTransformersSLP
+- https://github.com/lllyasviel/ControlNet
