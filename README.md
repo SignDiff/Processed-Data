@@ -9,7 +9,7 @@ This repository stores the preprocessed data for paper:
 
 After preprocessing [How2Sign](https://how2sign.github.io/) dataset, the condensed data set obtained is as follows:
 
-- https://drive.google.com/file/d/1fGSrRAxhik2hTr9m4yut_IgsVuKvlsVe/view?usp=sharing
+- [https://huggingface.co/datasets/SignDiff/how2sign-pre.zip](https://huggingface.co/datasets/FangSen9000/SignDiff/blob/main/how2sign-pre.zip)
 
 It can be used in the training of ASL production models. 
 <br>*Note: Because I later processed more data, the link above is four times the size of the one in the paper and is the result of the full How2Sign processing.*
@@ -18,7 +18,7 @@ It can be used in the training of ASL production models.
 
 After preprocessing [Phoenix-14T](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/) dataset, the condensed data set obtained is as follows:
 
-- https://drive.google.com/file/d/1O60O-pTEso5FWQ8GJdJKVvb87UE5jsu-/view?usp=sharing
+- [https://huggingface.co/datasets/SignDiff/phoenix-pre.zip](https://huggingface.co/datasets/FangSen9000/SignDiff/blob/main/phoenix-pre.zip)
 
 It can be used in the training of GSL production models.
 
