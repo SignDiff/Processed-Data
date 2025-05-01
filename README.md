@@ -45,13 +45,14 @@ Our pre-processing tools: the data cleansing tool at [SignDiff/tool](https://git
 Stay tuned. The data above should be sufficient for the time being.
 
 ```
-@misc{fang2024signllm,
-      title={SignLLM: Sign Languages Production Large Language Models}, 
-      author={Sen Fang and Lei Wang and Ce Zheng and Yapeng Tian and Chen Chen},
-      year={2024},
+@misc{fang2025signllmsignlanguageproduction,
+      title={SignLLM: Sign Language Production Large Language Models}, 
+      author={Sen Fang and Chen Chen and Lei Wang and Ce Zheng and Chunyu Sui and Yapeng Tian},
+      year={2025},
       eprint={2405.10718},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.10718}, 
 }
 
 @misc{fang2025signdiffdiffusionmodelamerican,
